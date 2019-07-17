@@ -25,7 +25,7 @@ import pandas as pd
 import io
 import matplotlib.pyplot as plt
 import numpy as np
-pd.set_option('display.float_format', lambda x: '%.3f' % x)
+#pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
 
 # In[17]:
